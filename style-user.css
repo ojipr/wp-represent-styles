@@ -1,0 +1,13 @@
+/* design */
+.marker-line-blue {
+	background:linear-gradient(transparent 60%, #91DCFF 60%);
+}
+.marker-line-red {
+	background:linear-gradient(transparent 60%, #FFA09C 60%);
+}
+.marker-line-yellow {
+	background:linear-gradient(transparent 60%, #ff6 60%);
+}
+.marker-line-green {
+	background:linear-gradient(transparent 60%, #9CEBB1 60%);
+}
